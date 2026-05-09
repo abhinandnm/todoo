@@ -1,6 +1,7 @@
 # Todoo 📝
 
-A simple and modern To-Do List application built to help users organize tasks efficiently with a clean and user-friendly interface.
+A simple and  To-Do List application built to help users organize tasks efficiently with a clean and user-friendly interface.
+**Note:** This was my first GitHub project! 
 
 ## Features
 - ➕ Add new tasks
